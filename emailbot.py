@@ -1,6 +1,6 @@
 import smtplib
 import threading
-#import speech_recognition as sr
+
 
 
 
