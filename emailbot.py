@@ -20,6 +20,6 @@ def sendMail():
 setInterval(sendMail,5)
 #you need to give your credentials to run this and allow the LESS SECURE APP feature on your gmail
 #on the sendmail function FIRST ADD YOUR GMAIL,THEN THE GMAIL OF THE RECIEVER AND THEN THE MESSAGE
-# YOU WABT TO SEND
+# YOU WANT TO SEND
 #remember to stop the program after you have irritated your friend  JUST CLICK ON THE RED BUTTON
 #THE PROGRAM
